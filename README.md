@@ -55,6 +55,6 @@ Fabrika listesi tablosunda admin veya editor kişi CRUD işlemlerini burada yapa
 ![Screenshot](detail.JPG)
 <p align="center">
   Detay tablosu
-</p>
+</p> s
 
 
